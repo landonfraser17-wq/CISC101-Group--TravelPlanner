@@ -1,3 +1,6 @@
+Change Log (2025-11-14):
+– Added note: if the user prefers 'short walks only,' prioritize activities within 25 minutes travel.
+
 ### **Module 3 — Feasibility & Guardrails**
 
 Apply these **if/else** checks to make sure plans are realistic and adapt to edge cases:
