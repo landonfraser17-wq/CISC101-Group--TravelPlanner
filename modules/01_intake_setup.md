@@ -2,13 +2,13 @@
 
 Collect essential details:
 
-- Destination(s)
-- Dates or trip length
+
+Destination(s): city, region, country, or neighborhood
+- Start date / End date: (YYYY-MM-DD) 
+- Trip length in days
 - Number of travelers
-- Budget style (affordable, mid-range, luxury)
+- Budget style (affordable, mid-range, luxury) or per-person amount
 - Interests (food, culture, nature, etc.)
 - Preferred pace (relaxed, balanced, fast)
-- Key constraints (mobility, weather, diet)
-
-Normalize details (e.g., dates, season) and store them in a simple JSON internally.
-
+- Key constraints: mobility, weather, diet)
+- Negative or zero budgets: Reject or apply defaults per style.
