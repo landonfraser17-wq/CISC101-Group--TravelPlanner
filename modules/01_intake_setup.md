@@ -2,7 +2,6 @@
 
 Collect essential details:
 
-
 Destination(s): city, region, country, or neighborhood
 - Start date / End date: (YYYY-MM-DD) 
 - Trip length in days
